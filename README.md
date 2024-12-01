@@ -1,2 +1,2 @@
 # LDPC
-LDPC code for QKD in Differential Phase Shift protocol
+Low Density Parity Check code for Quantum Key Distribution in Differential Phase Shift protocol
